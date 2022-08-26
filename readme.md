@@ -4,7 +4,7 @@
 (Web Design Landing Page)
 
 Live Link 🔗
-https://interior-work-10.netlify.app/
+https://web-design-pr-8.netlify.app/
 
 ## SNAP
 
